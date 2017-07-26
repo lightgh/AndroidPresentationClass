@@ -1,4 +1,5 @@
 Android App Development presentation
+     Name: Light Chinaka
 
 ![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
 
